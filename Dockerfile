@@ -9,3 +9,4 @@ WORKDIR /root
 
 ENTRYPOINT ["/usr/bin/tini", "--"]
 CMD ["ttyd", "bash"]
+ 
