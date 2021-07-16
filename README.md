@@ -107,4 +107,4 @@ Modern browsers, See [Browser Support](https://github.com/xtermjs/xterm.js#brows
 ## Alternatives
 
 * [Wetty](https://github.com/krishnasrinivas/wetty): [Node](https://nodejs.org) based web terminal (SSH/login)
-* [GoTTY](https://github.com/yudai/gotty): [Go](https://golang.org) based web terminal
+* [GoTTY](https://github.com/yudai/gotty): [Go](https://golang.org) based web terminal 
